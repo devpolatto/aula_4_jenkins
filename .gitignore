@@ -1,0 +1,7 @@
+var.tf
+
+.terraform
+
+.terraform.lock.hcl
+
+kube_config.yaml
